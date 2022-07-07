@@ -1,6 +1,6 @@
-# Welcome to the Encointer Simulations!
+# Welcome to Encointer Simulations!
 
-In economically disadvantaged countries, citizens often struggle to meet their basic needs. Encointer is a new technology that allows communities to launch their own digital currencies, so-called community currencies, to supplement national legal tender. The community currencies can not only be used for purchasing goods and services, but are also issued as a regular basic income among participants. To compensate for this rising inflation, the value of a token is lowered constantly through a mechanism known as demurrage.
+In economically disadvantaged countries, citizens often struggle to meet their basic needs. Encointer (https://encointer.org/) is a new technology that allows communities to launch their own digital currencies, so-called community currencies, to supplement national legal tender. The community currencies can not only be used for purchasing goods and services, but are also issued as a regular basic income among participants. To compensate for this rising inflation, the value of a token is lowered constantly through a mechanism known as demurrage.
 
 You can run the Encointer Simulation System to see an analysis of the results of using Encointer in real life.
 
